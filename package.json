@@ -1,0 +1,28 @@
+{
+  "name": "coffee-express",
+  "description": "Simple example of express using coffee",
+  "version": "0.0.1",
+  "private": true,
+
+  "scripts": {
+    "test": "jasmine-node --coffee spec/"
+  },
+
+
+  "dependencies": {
+    "coffee-script": "*",
+    "express": "3.x",
+    "jasmine-node": "latest",
+    "puts": "latest",
+    "request": "*",
+    "ejs": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "*",
+    "express": "3.x",
+    "jasmine-node": "latest",
+    "puts": "latest",
+    "request": "*",
+    "ejs": "*"
+  }
+}
